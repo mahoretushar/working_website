@@ -171,10 +171,10 @@
                 <div class="service-item mb-4">
                     <div class="icon d-flex align-items-center">
                         <i class="icofont-capsule text-lg"></i>
-                        <h4 class="mt-3 mb-3 ml-2">Pulmonary Medicine</h4>
+                        <h4 class="mt-3 mb-3 ml-2">Respiratory Medicine</h4>
                     </div>
                     <div class="content">
-                        <p class="mb-4">Our Department of Pulmonary Medicine provides quality care to people with
+                        <p class="mb-4">Our Department of Respiratory Medicine provides quality care to people with
                             complex medical ...</p>
                         <a href="s11_Pulmonary%20Medicine.php" class="read-more">Learn More <i
                                     class="icofont-simple-right ml-2"></i></a>
@@ -199,10 +199,10 @@
                 <div class="service-item mb-4">
                     <div class="icon d-flex align-items-center">
                         <i class="icofont-heartbeat text-lg"></i>
-                        <h4 class="mt-3 mb-3 ml-2">Radiology & Imaging</h4>
+                        <h4 class="mt-3 mb-3 ml-2">Radio-diagnosis</h4>
                     </div>
                     <div class="content">
-                        <p class="mb-4">Our Department of Radiology & Imaging provides comprehensive diagnostic imaging
+                        <p class="mb-4">Our Department of Radio-diagnosis provides comprehensive diagnostic imaging
                             services ...</p>
                         <a href="s13_radiology.php" class="read-more">Learn More <i
                                     class="icofont-simple-right ml-2"></i></a>

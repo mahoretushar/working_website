@@ -12,10 +12,35 @@
         </div>
     </div>
 </div>
+<!-- Button trigger modal -->
+
 <section class="features " style="margin-top:100px">
     <div class="container ">
+        <!-- Modal -->
+        <div class="modal fade bd-example-modal-lg" id="exampleModalCenter" tabindex="-1" role="dialog"
+             aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+            <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <br>
+                        <h5 class="modal-title" id="exampleModalLongTitle">Welcome to Dr. Rajendra Gode Multispeciality
+                            & General Hospital</h5>
+                        <br>
+                    </div>
+                    <div class="modal-body text-center">
+                        <a href='appoinment.php'
+                           class="btn btn-main btn-round-full"> Continue in English
+                            <i class="fa" aria-hidden="true"></i></a>
+                        <a href='appoinment.php'
+                           class="btn btn-outline-primary rounded-pill btn-sm"> Switch to Hindi
+                            <i class="fa" aria-hidden="true"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
         <div class="row">
             <div class="col-lg-12">
+
                 <div class="feature-block d-lg-flex">
                     <div class="feature-item mb-5 mb-lg-0">
                         <div class="feature-icon">
@@ -151,7 +176,7 @@
                     </div>
                 </div>
             </div>
-            <div class="d-flex align-items-center">
+            <div class="d-flex">
                 <a class="btn btn-main btn-round-full" style="margin-left: 490px" href="all-specialities.php">View
                     All<i
                             class="icofont-simple-right ml-2  "></i></a>
@@ -187,109 +212,119 @@
         </div>
     </div>
 </section> -->
-<section class="section testimonial-2  ">
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-lg-7">
-                <div class="section-title text-center">
-                    <h2>Patient Testimonials</h2>
-                    <div class="divider mx-auto my-4"></div>
-                    <p>In their own words, our patients tell us their experience</p>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="container my-0">
-        <div class="row align-items-center">
-            <div class="col-lg-12 testimonial-wrap-2">
-                <div class="testimonial-block style-2 ">
-                    <i class="icofont-quote-right"></i>
-                    <div class="testimonial-thumb">
-                        <img src="images/user.png" class="img-fluid icofont-user-male" alt="">
-                    </div>
-                    <div class="client-info ">
-                        <h4>Amazing service!</h4>
-                        <span>Abhijeet</span>
-                        <p>
-                            They provide great service facilty consectetur adipisicing elit. Itaque rem,
-                            praesentium, iure, ipsum magnam deleniti a vel eos adipisci suscipit fugit placeat.
-                        </p>
-                    </div>
-                </div>
-                <div class="testimonial-block style-2  gray-bg">
-                    <div class="testimonial-thumb">
-                        <img src="images/user.png" alt="" class="img-fluid">
-                    </div>
-                    <div class="client-info">
-                        <h4>Expert doctors!</h4>
-                        <span>Swapnil </span>
-                        <p>
-                            They provide great service facilty consectetur adipisicing elit. Itaque rem,
-                            praesentium, iure, ipsum magnam deleniti a vel eos adipisci suscipit fugit placeat.
-                        </p>
-                    </div>
-                    <i class="icofont-quote-right"></i>
-                </div>
-                <div class="testimonial-block style-2  gray-bg">
-                    <div class="testimonial-thumb">
-                        <img src="images/user.png" alt="" class="img-fluid">
-                    </div>
-                    <div class="client-info">
-                        <h4>Good Support!</h4>
-                        <span>Ashwini</span>
-                        <p>
-                            They provide great service facilty consectetur adipisicing elit. Itaque rem,
-                            praesentium, iure, ipsum magnam deleniti a vel eos adipisci suscipit fugit placeat.
-                        </p>
-                    </div>
-                    <i class="icofont-quote-right"></i>
-                </div>
-                <div class="testimonial-block style-2  gray-bg">
-                    <div class="testimonial-thumb">
-                        <img src="images/user.png" alt="" class="img-fluid">
-                    </div>
-                    <div class="client-info">
-                        <h4>Nice Environment!</h4>
-                        <span>Dhiraj</span>
-                        <p class="mt-4">
-                            They provide great service facilty consectetur adipisicing elit. Itaque rem,
-                            praesentium, iure, ipsum magnam deleniti a vel eos adipisci suscipit fugit placeat.
-                        </p>
-                    </div>
-                    <i class="icofont-quote-right"></i>
-                </div>
-                <div class="testimonial-block style-2  gray-bg">
-                    <div class="testimonial-thumb">
-                        <img src="images/user.png" alt="" class="img-fluid">
-                    </div>
-                    <div class="client-info">
-                        <h4>Modern Service!</h4>
-                        <span>Priyanka</span>
-                        <p>
-                            They provide great service facilty consectetur adipisicing elit. Itaque rem,
-                            praesentium, iure, ipsum magnam deleniti a vel eos adipisci suscipit fugit placeat.
-                        </p>
-                    </div>
-                    <i class="icofont-quote-right"></i>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<section class="section clients gray-bg">
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-lg-7">
-                <div class="section-title text-center">
-                    <h2>Accreditations</h2>
-                    <div class="divider mx-auto my-4"></div>
-                    <br><br>
-                    <img src="images/about/acc.png" alt="">
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+<!-- Slider End -->
+
+<!-- testimonial Start -->
+<!--<section class="section testimonial-2  ">-->
+<!--    <div class="container">-->
+<!--        <div class="row justify-content-center">-->
+<!--            <div class="col-lg-7">-->
+<!--                <div class="section-title text-center">-->
+<!--                    <h2>Patient Testimonials</h2>-->
+<!--                    <div class="divider mx-auto my-4"></div>-->
+<!--                    <p>In their own words, our patients tell us their experience</p>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </div>-->
+<!--    <div class="container my-0">-->
+<!--        <div class="row align-items-center">-->
+<!--            <div class="col-lg-12 testimonial-wrap-2">-->
+<!--                <div class="testimonial-block style-2 ">-->
+<!--                    <i class="icofont-quote-right"></i>-->
+<!--                    <div class="testimonial-thumb">-->
+<!--                        <img src="images/user.png" class="img-fluid icofont-user-male" alt="">-->
+<!--                    </div>-->
+<!--                    <div class="client-info ">-->
+<!--                        <h4>Amazing service!</h4>-->
+<!--                        <span>Abhijeet</span>-->
+<!--                        <p>-->
+<!--                            They provide great service facilty consectetur adipisicing elit. Itaque rem,-->
+<!--                            praesentium, iure, ipsum magnam deleniti a vel eos adipisci suscipit fugit placeat.-->
+<!--                        </p>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--                <div class="testimonial-block style-2  gray-bg">-->
+<!--                    <div class="testimonial-thumb">-->
+<!--                        <img src="images/user.png" alt="" class="img-fluid">-->
+<!--                    </div>-->
+<!--                    <div class="client-info">-->
+<!--                        <h4>Expert doctors!</h4>-->
+<!--                        <span>Swapnil </span>-->
+<!--                        <p>-->
+<!--                            They provide great service facilty consectetur adipisicing elit. Itaque rem,-->
+<!--                            praesentium, iure, ipsum magnam deleniti a vel eos adipisci suscipit fugit placeat.-->
+<!--                        </p>-->
+<!--                    </div>-->
+<!--                    <i class="icofont-quote-right"></i>-->
+<!--                </div>-->
+<!--                <div class="testimonial-block style-2  gray-bg">-->
+<!--                    <div class="testimonial-thumb">-->
+<!--                        <img src="images/user.png" alt="" class="img-fluid">-->
+<!--                    </div>-->
+<!--                    <div class="client-info">-->
+<!--                        <h4>Good Support!</h4>-->
+<!--                        <span>Ashwini</span>-->
+<!--                        <p>-->
+<!--                            They provide great service facilty consectetur adipisicing elit. Itaque rem,-->
+<!--                            praesentium, iure, ipsum magnam deleniti a vel eos adipisci suscipit fugit placeat.-->
+<!--                        </p>-->
+<!--                    </div>-->
+<!--                    <i class="icofont-quote-right"></i>-->
+<!--                </div>-->
+<!--                <div class="testimonial-block style-2  gray-bg">-->
+<!--                    <div class="testimonial-thumb">-->
+<!--                        <img src="images/user.png" alt="" class="img-fluid">-->
+<!--                    </div>-->
+<!--                    <div class="client-info">-->
+<!--                        <h4>Nice Environment!</h4>-->
+<!--                        <span>Dhiraj</span>-->
+<!--                        <p class="mt-4">-->
+<!--                            They provide great service facilty consectetur adipisicing elit. Itaque rem,-->
+<!--                            praesentium, iure, ipsum magnam deleniti a vel eos adipisci suscipit fugit placeat.-->
+<!--                        </p>-->
+<!--                    </div>-->
+<!--                    <i class="icofont-quote-right"></i>-->
+<!--                </div>-->
+<!--                <div class="testimonial-block style-2  gray-bg">-->
+<!--                    <div class="testimonial-thumb">-->
+<!--                        <img src="images/user.png" alt="" class="img-fluid">-->
+<!--                    </div>-->
+<!--                    <div class="client-info">-->
+<!--                        <h4>Modern Service!</h4>-->
+<!--                        <span>Priyanka</span>-->
+<!--                        <p>-->
+<!--                            They provide great service facilty consectetur adipisicing elit. Itaque rem,-->
+<!--                            praesentium, iure, ipsum magnam deleniti a vel eos adipisci suscipit fugit placeat.-->
+<!--                        </p>-->
+<!--                    </div>-->
+<!--                    <i class="icofont-quote-right"></i>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </div>-->
+<!--</section>-->
+<!-- End Testimonial Area -->
+
+<!--<section class="section clients gray-bg">-->
+<!--    <div class="container">-->
+<!--        <div class="row justify-content-center">-->
+<!--            <div class="col-lg-7">-->
+<!--                <div class="section-title text-center">-->
+<!--                    <h2>Accreditations</h2>-->
+<!--                    <div class="divider mx-auto my-4"></div>-->
+<!--                    <br><br>-->
+<!--                    <img src="images/about/acc.png" alt="">-->
+<!--                </div>-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </div>-->
+<!--</section>-->
 <?php include 'footer.php'; ?>
+<script>
+    $(document).ready(function () {
+        $("#exampleModalCenter").modal('show');
+    });
+</script>
 </body>
 </html>

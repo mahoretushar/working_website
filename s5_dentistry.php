@@ -42,6 +42,7 @@
                         <li><i class="icofont-check mr-2"></i>Implants - placement and restoration</li>
                         <li><i class="icofont-check mr-2"></i>Crowns, bridges, full and partial dentures</li>
                         <li><i class="icofont-check mr-2"></i>Implants</li>
+                        <li><i class="icofont-check mr-2"></i>RCT</li>
                     </ul>
                 </div>
             </div>

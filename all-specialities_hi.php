@@ -170,10 +170,10 @@
                 <div class="service-item mb-4">
                     <div class="icon d-flex align-items-center">
                         <i class="icofont-capsule text-lg"></i>
-                        <h4 class="mt-3 mb-3 ml-2">पल्मोनरी मेडिसिन</h4>
+                        <h4 class="mt-3 mb-3 ml-2">श्वसन औषधि</h4>
                     </div>
                     <div class="content">
-                        <p class="mb-4">हमारा पल्मोनरी मेडिसिन विभाग फेफड़ों (फुफ्फुसीय) और सांस लेने के साथ जटिल
+                        <p class="mb-4">हमारा श्वसन औषधि विभाग फेफड़ों (फुफ्फुसीय) और सांस लेने के साथ जटिल
                             चिकित्सा चुनौतियों वाले लोगों को गुणवत्तापूर्ण ...</p>
                         <a href="s11_Pulmonary%20Medicine.php" class="read-more">और अधिक जानें <i
                                     class="icofont-simple-right ml-2"></i></a>
@@ -198,10 +198,10 @@
                 <div class="service-item mb-4">
                     <div class="icon d-flex align-items-center">
                         <i class="icofont-heartbeat text-lg"></i>
-                        <h4 class="mt-3 mb-3 ml-2">रेडियोलॉजी और इमेजिंग</h4>
+                        <h4 class="mt-3 mb-3 ml-2">रेडियो निदान</h4>
                     </div>
                     <div class="content">
-                        <p class="mb-4">हमारा रेडियोलॉजी और इमेजिंग विभाग हमारे रोगियों के लिए उन्नत तकनीक का उपयोग करके
+                        <p class="mb-4">हमारा रेडियो निदान विभाग हमारे रोगियों के लिए उन्नत तकनीक का उपयोग करके
                             व्यापक नैदानिक इमेजिंग सेवाएं प्रदान ...</p>
                         <a href="s13_radiology.php" class="read-more">और अधिक जानें <i
                                     class="icofont-simple-right ml-2"></i></a>

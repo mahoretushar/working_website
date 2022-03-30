@@ -8,7 +8,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="block text-center">
-                    <h1 class="text-capitalize mb-5 text-lg">Radiology & Imaging</h1>
+                    <h1 class="text-capitalize mb-5 text-lg">Radio-diagnosis</h1>
                 </div>
             </div>
         </div>
@@ -25,9 +25,9 @@
         <div class="row">
             <div class="col-lg-8">
                 <div class="department-content mt-1">
-                    <h3 class="text-md">Radiology & Imaging</h3>
+                    <h3 class="text-md">Radio-diagnosis</h3>
                     <div class="divider my-4"></div>
-                    <p>Our Department of Radiology & Imaging provides comprehensive diagnostic imaging services using
+                    <p>Our Department of Radio-diagnosis provides comprehensive diagnostic imaging services using
                         advanced technology for our patients.</p>
                     <p></p>
                     <a href="appoinment.php" class="btn btn-main-2 btn-round-full">Make an Appointment<i
@@ -39,14 +39,7 @@
                         </li>
                         <li><i class="icofont-check mr-2"></i>Digital Mammography and Tomosynthesis</li>
                         <li><i class="icofont-check mr-2"></i>Sonography and Color Doppler</li>
-                        <li><i class="icofont-check mr-2"></i>DEXA</li>
-                        <li><i class="icofont-check mr-2"></i>CT Scan</li>
-                        <li><i class="icofont-check mr-2"></i>Group therapy</li>
-                        <li><i class="icofont-check mr-2"></i>TMRI
-                        </li>
                         <li><i class="icofont-check mr-2"></i>Interventional Radiology
-                        </li>
-                        <li><i class="icofont-check mr-2"></i>PET CT
                         </li>
                     </ul>
                 </div>

@@ -1,7 +1,6 @@
 <?php
 ?>
 <head>
-    <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="description" content="Orbitor,business,company,agency,modern,bootstrap4,tech,software">
     <meta name="author" content="themefisher.com">
@@ -21,6 +20,8 @@
     <link rel="stylesheet" href="plugins/fontawesome/css/all.css">
     <!-- Slider Stylesheet -->
     <link rel="stylesheet" href="css/slider.css">
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
     <style>
         .dropdown-content {
             display: block;
@@ -59,6 +60,28 @@
         </marquee>
     </div>
     <div class="header-top-bar py-0">
+        <!-- Modal -->
+        <div class="modal fade bd-example-modal-lg" id="exampleModalCenter" tabindex="-1" role="dialog"
+             aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+            <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <br>
+                        <h5 class="modal-title" id="exampleModalLongTitle">Welcome to Dr. Rajendra Gode Multispeciality
+                            & General Hospital</h5>
+                        <br>
+                    </div>
+                    <div class="modal-body text-center">
+                        <a href='#' data-dismiss="modal"
+                           class="btn btn-main btn-round-full"> Continue in English
+                            <i class="fa" aria-hidden="true"></i></a>
+                        <a href='index_hi.php'
+                           class="btn btn-outline-primary rounded-pill btn-sm"> Switch to Hindi
+                            <i class="fa" aria-hidden="true"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
         <div class="row align-items-center">
             <div class="col-lg-6 ml-2">
                 <ul class="top-bar-info list-inline-item pl-0 mb-0">
@@ -69,7 +92,7 @@
                             Maharashtra</a></li>
                 </ul>
             </div>
-            <div class="col-lg-4    ">
+            <div class="col-lg-4">
                 <div class="text-lg-right top-right-bar mt-2 mt-lg-0">
                     <a href="tel:+23-345-67890">
                         <span>Call Now: </span>
@@ -77,12 +100,15 @@
                     </a>
                 </div>
             </div>
-            <div class="form-group  col mr-2 mb-0 my-1 px-5">
-                <select class="form-control form-control-sm  my-0 py-0 border-0 rounded-pill"
-                        id="exampleFormControlSelect1">
-                    <option selected="selected">English</option>
-                    <option value="index_hi.php">Hindi</option>
-                </select>
+            <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModalCenter">
+                Select Language
+            </button>
+            <div class="form-group col mr-2 mb-0 my-1 px-5">
+                <!--                <select class="form-control form-control-sm  my-0 py-0 border-0 rounded-pill"-->
+                <!--                        id="exampleFormControlSelect1">-->
+                <!--                    <option selected="selected">English</option>-->
+                <!--                    <option value="index_hi.php">Hindi</option>-->
+                <!--                </select>-->
             </div>
         </div>
     </div>
@@ -107,9 +133,9 @@
                             <li><a class="dropdown-item" href="about-hospital.php">About Hospital</a></li>
                             <li><a class="dropdown-item" href="our-chairman.php">Our Chairman</a></li>
                             <li><a class="dropdown-item" href="vision.php">Inspiration & Philosophy</a></li>
-                            <li><a class="dropdown-item" href="accreditation.php">Accreditation</a></li>
+<!--                            <li><a class="dropdown-item" href="accreditation.php">Accreditation</a></li>-->
                             <li><a class="dropdown-item" href="quality-commitment.php">Quality Commitment</a></li>
-                            <li><a class="dropdown-item" href="virtual-tour.php">Virtual Tour</a></li>
+<!--                            <li><a class="dropdown-item" href="virtual-tour.php">Virtual Tour</a></li>-->
                         </ul>
                     </li>
                     <li class="nav-item dropdown">
@@ -142,13 +168,12 @@
                                         </li>
                                     </div>
                                     <div class="column">
-
-                                        <li><a class="dropdown-item" href="s11_Pulmonary%20Medicine.php">Pulmonary
+                                        <li><a class="dropdown-item" href="s11_Pulmonary%20Medicine.php">Respiratory
                                                 Medicine</a>
                                         </li>
                                         <li><a class="dropdown-item" href="s12_Psychiatry.php">Psychiatry</a>
                                         </li>
-                                        <li><a class="dropdown-item" href="s13_radiology.php">Radiology & Imaging</a>
+                                        <li><a class="dropdown-item" href="s13_radiology.php">Radio-diagnosis</a>
                                         </li>
                                         <li><a class="dropdown-item" href="s14_physiotherapy.php">Physiotherapy</a></li>
                                         <li><a class="dropdown-item" href="all-specialities.php">All Specialities</a>
@@ -163,19 +188,20 @@
                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">Facilities <i
                                     class="icofont-thin-down"></i></a>
                         <ul class="dropdown-menu" aria-labelledby="dropdown03">
-                            <li><a class="dropdown-item" href="#">Pharmacy (24/7)</a></li>
                             <li><a class="dropdown-item" href="#">Blood bank </a></li>
+                            <li><a class="dropdown-item" href="#">Central Clinical Laboratory (24/7)</a>
+                            <li><a class="dropdown-item" href="#">Pharmacy (24/7)</a></li>
                             <li><a class="dropdown-item" href="#">Emergency Medicine (24/7)</a></li>
+                            <li><a class="dropdown-item" href="#">Ambulance – 24/7 </a></li>
                             <li><a class="dropdown-item" href="#">ICU, NICU, ICCU,<br> PICU, SICU, HDU
                                 </a></li>
-                            <li><a class="dropdown-item" href="#">Ambulance – 24/7 </a></li>
-                            <li><a class="dropdown-item" href="#">Cafeteria</a>
-                            <li><a class="dropdown-item" href="#">In-patient department</a>
-                            <li><a class="dropdown-item" href="#">Out-patient department</a>
                             <li><a class="dropdown-item" href="#">Online consultation</a></li>
                             <li><a class="dropdown-item" href="#">Operation theatres</a></li>
-                            <li><a class="dropdown-item" href="#">Central Clinical Laboratory (24/7)</a>
-                            </li><li><a class="dropdown-item" href="all-facilities.php">All Facilities</a>
+                            <li><a class="dropdown-item" href="#">In-patient department</a>
+                            <li><a class="dropdown-item" href="#">Out-patient department</a>
+                            <li><a class="dropdown-item" href="#">Cafeteria</a>
+                            </li>
+                            <li><a class="dropdown-item" href="all-facilities.php">All Facilities</a>
                             </li>
                         </ul>
                     </li>
@@ -199,4 +225,9 @@
         window.location.href = "index_hi.php";
     }
 </script>
+<!--<script>-->
+<!--    $(document).ready(function () {-->
+<!--        $("#exampleModalCenter").modal('show');-->
+<!--    });-->
+<!--</script>-->
 </body>

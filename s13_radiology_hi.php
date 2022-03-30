@@ -8,7 +8,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="block text-center">
-                    <h1 class="text-capitalize mb-5 text-lg">रेडियोलॉजी और इमेजिंग</h1>
+                    <h1 class="text-capitalize mb-5 text-lg">रेडियो निदान</h1>
                 </div>
             </div>
         </div>
@@ -25,9 +25,9 @@
         <div class="row">
             <div class="col-lg-8">
                 <div class="department-content mt-1">
-                    <h3 class="text-md">रेडियोलॉजी और इमेजिंग</h3>
+                    <h3 class="text-md">रेडियो निदान</h3>
                     <div class="divider my-4"></div>
-                    <p>हमारा रेडियोलॉजी और इमेजिंग विभाग हमारे रोगियों के लिए उन्नत तकनीक का उपयोग करके व्यापक नैदानिक
+                    <p>हमारा रेडियो निदान विभाग हमारे रोगियों के लिए उन्नत तकनीक का उपयोग करके व्यापक नैदानिक
                         इमेजिंग सेवाएं प्रदान करता है।</p>
                     <p></p>
                     <a href="appoinment.php" class="btn btn-main-2 btn-round-full">ऑनलाइन अपॉइंटमेंट<i
@@ -38,14 +38,7 @@
                         <li><i class="icofont-check mr-2"></i>डिजिटल एक्स-रे</li>
                         <li><i class="icofont-check mr-2"></i>डिजिटल मैमोग्राफी और टोमोसिंथेसिस</li>
                         <li><i class="icofont-check mr-2"></i>सोनोग्राफी और कलर डॉपलर</li>
-                        <li><i class="icofont-check mr-2"></i>डेक्सा</li>
-                        <li><i class="icofont-check mr-2"></i>सीटी स्कैन</li>
-                        <li><i class="icofont-check mr-2"></i>समूह चिकित्सा</li>
-                        <li><i class="icofont-check mr-2"></i>टीएमआरआई
-                        </li>
                         <li><i class="icofont-check mr-2"></i>हस्तक्षेपीय रेडिओलॉजी
-                        </li>
-                        <li><i class="icofont-check mr-2"></i>पीईटी सीटी
                         </li>
                     </ul>
                 </div>

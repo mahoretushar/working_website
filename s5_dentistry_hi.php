@@ -44,6 +44,7 @@
                         <li><i class="icofont-check mr-2"></i>प्रत्यारोपण - प्लेसमेंट और बहाली</li>
                         <li><i class="icofont-check mr-2"></i>मुकुट, पुल, पूर्ण और आंशिक डेन्चर</li>
                         <li><i class="icofont-check mr-2"></i>प्रत्यारोपण</li>
+                        <li><i class="icofont-check mr-2"></i>आरसीटी</li>
                     </ul>
                 </div>
             </div>

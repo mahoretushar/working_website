@@ -8,7 +8,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="block text-center">
-                    <h1 class="text-capitalize mb-5 text-lg">पल्मोनरी मेडिसिन</h1>
+                    <h1 class="text-capitalize mb-5 text-lg">श्वसन औषधि</h1>
                 </div>
             </div>
         </div>
@@ -25,7 +25,7 @@
         <div class="row">
             <div class="col-lg-8">
                 <div class="department-content mt-1">
-                    <h3 class="text-md">पल्मोनरी मेडिसिन</h3>
+                    <h3 class="text-md">श्वसन औषधि</h3>
                     <div class="divider my-4"></div>
                     <p>हमारा पल्मोनरी मेडिसिन विभाग फेफड़ों (फुफ्फुसीय) और सांस लेने के साथ जटिल चिकित्सा चुनौतियों वाले
                         लोगों को गुणवत्तापूर्ण देखभाल प्रदान करता है। हमारे कुशल डॉक्टर फेफड़ों के संक्रमण, तपेदिक,

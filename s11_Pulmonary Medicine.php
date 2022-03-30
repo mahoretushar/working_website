@@ -8,7 +8,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="block text-center">
-                    <h1 class="text-capitalize mb-5 text-lg">Pulmonary Medicine</h1>
+                    <h1 class="text-capitalize mb-5 text-lg">Respiratory Medicine</h1>
                 </div>
             </div>
         </div>
@@ -25,16 +25,16 @@
         <div class="row">
             <div class="col-lg-8">
                 <div class="department-content mt-1">
-                    <h3 class="text-md">Pulmonary Medicine</h3>
+                    <h3 class="text-md">Respiratory Medicine</h3>
                     <div class="divider my-4"></div>
-                    <p>Our Department of Pulmonary Medicine provides quality care to people with complex medical
+                    <p>Our Department of Respiratory Medicine provides quality care to people with complex medical
                         challenges with lungs (pulmonary) and breathing. Our skilled doctors offer expertise in lung
                         infections, tuberculosis, Pulmonary vascular diseases, Pulmonary hypertension, asthma, sleep
                         apnea syndrome, acute and chronic respiratory failure, and lung cancers.s</p>
                     <p></p>
                     <a href="appoinment.php" class="btn btn-main-2 btn-round-full">Make an Appointment<i
                                 class="icofont-simple-right ml-2  "></i></a>
-                    <h3 class="mt-5 mb-4">Services features</h3>
+                    <h3 class="mt-5 mb-4">Some of our services include:</h3>
                     <div class="divider my-4"></div>
                     <ul class="list-unstyled department-service">
                         <li><i class="icofont-check mr-2"></i>State-of-the-art equipment</li>

@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="zxx">
-<?php include 'header.php'; ?>
+<?php include 'header_hi.php'; ?>
 <body id="top">
 <section class="page-title bg-1">
     <div class="overlay"></div>
@@ -8,8 +8,8 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="block text-center">
-                    <span class="text-white">Book your  </span>
-                    <h1 class="text-capitalize mb-5 text-lg">Appoinment</h1>
+                    <span class="text-white">अपनी</span>
+                    <h1 class="text-capitalize mb-5 text-lg">नियुक्ति बुक करें</h1>
                 </div>
             </div>
         </div>
@@ -23,13 +23,13 @@
                     <div class="feature-icon mb-3">
                         <i class="icofont-support text-lg"></i>
                     </div>
-                    <span class="h3">Call for an Emergency Service!</span>
+                    <span class="h3">आपातकालीन सेवा के लिए कॉल करें!</span>
                     <h2 class="text-color mt-3">+91 7545562263</h2>
                 </div>
             </div>
             <div class="col-lg-8">
                 <div class="appoinment-wrap mt-5 mt-lg-0 pl-lg-5">
-                    <h2 class="mb-2 title-color">Book an appointment</h2>
+                    <h2 class="mb-2 title-color">अपॉइंटमेंट बुक करें</h2>
 <!--                    <p class="mb-4">Mollitia dicta commodi est recusandae iste, natus eum asperiores corrupti qui velit-->
 <!--                        . Iste dolorum atque similique praesentium soluta.</p>-->
                     <form name="sentMessage" id="#" class="appoinment-form" action="mail.php" method="post">
@@ -37,21 +37,21 @@
                             <div class="col-lg-6">
                                 <div class="form-group">
                                     <select class="form-control" id="exampleFormControlSelect1">
-                                        <option>Choose Department</option>
-                                        <option>Anesthesiology</option>
-                                        <option>Obstetrics & Gynecology</option>
-                                        <option>General Medicine</option>
-                                        <option>General Surgery</option>
-                                        <option>Dentistry</option>
-                                        <option>Pediatrics</option>
-                                        <option>Orthopedics</option>
-                                        <option>Ophthalmology</option>
-                                        <option>Ear, Nose, Throat (ENT)</option>
-                                        <option>Dermatology</option>
-                                        <option>Respiratory Medicine</option>
-                                        <option>Psychiatry</option>
-                                        <option>Radio-diagnosis</option>
-                                        <option>Physiotherapy</option>
+                                        <option>विभाग चुनें</option>
+                                        <option>एनेस्थिसियोलॉजी</option>
+                                        <option>प्रसूति & प्रसूतिशास्र</option>
+                                        <option>सामान्य दवा</option>
+                                        <option>सामान्य शल्य चिकित्सा</option>
+                                        <option>दंत चिकित्सा</option>
+                                        <option>बच्चों का चिकित्सक</option>
+                                        <option>अस्थिरोग विभाग</option>
+                                        <option>नेत्र विज्ञान विभाग</option>
+                                        <option>कान, नाक, गला (ईएनटी) विभाग</option>
+                                        <option>त्वचा विज्ञान</option>
+                                        <option>श्वसन औषधि</option>
+                                        <option>मनश्चिकित्सा</option>
+                                        <option>रेडियो निदान</option>
+                                        <option>भौतिक चिकित्सा</option>
                                     </select>
                                 </div>
                             </div>
@@ -106,6 +106,6 @@
         </div>
     </div>
 </section>
-<?php include 'footer.php'; ?>
+<?php include 'footer_hi.php'; ?>
 </body>
 </html>

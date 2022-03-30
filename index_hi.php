@@ -14,6 +14,28 @@
 </div>
 <section class="features " style="margin-top:100px">
     <div class="container ">
+        <!-- Modal -->
+        <div class="modal fade bd-example-modal-lg" id="exampleModalCenter" tabindex="-1" role="dialog"
+             aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+            <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <br>
+                        <h5 class="modal-title" id="exampleModalLongTitle">डॉ. राजेंद्र गोडे मल्टीस्पेशलिटी एंड जनरल
+                            हॉस्पिटल में आपका स्वागत है</h5>
+                        <br>
+                    </div>
+                    <div class="modal-body text-center">
+                        <a href='appoinment.php'
+                           class="btn btn-main btn-round-full"> अंग्रेजी में स्विच करें
+                            <i class="fa" aria-hidden="true"></i></a>
+                        <a href='appoinment.php'
+                           class="btn btn-outline-primary rounded-pill btn-sm"> हिंदी जारी रखें
+                            <i class="fa" aria-hidden="true"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
         <div class="row">
             <div class="col-lg-12">
                 <div class="feature-block d-lg-flex">
@@ -187,109 +209,115 @@
         </div>
     </div>
 </section> -->
-<section class="section testimonial-2  ">
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-lg-7">
-                <div class="section-title text-center">
-                    <h2>रोगी प्रशंसापत्र</h2>
-                    <div class="divider mx-auto my-4"></div>
-                    <p>उन्हीं के शब्दों में हमारे मरीज हमें अपना अनुभव बताते हैं</p>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="container my-0">
-        <div class="row align-items-center">
-            <div class="col-lg-12 testimonial-wrap-2">
-                <div class="testimonial-block style-2 ">
-                    <i class="icofont-quote-right"></i>
-                    <div class="testimonial-thumb">
-                        <img src="images/user.png" class="img-fluid icofont-user-male" alt="">
-                    </div>
-                    <div class="client-info ">
-                        <h4>अद्भुत सेवा!</h4>
-                        <span>अभिजीत</span>
-                        <p>
-                            वे महान सेवा सुविधा, और सहायता प्रदान करते हैं। पूरे अनुभव के दौरान अद्भुत था। मुझे हर तरह
-                            का नैतिक और मानसिक समर्थन मिला।
-                        </p>
-                    </div>
-                </div>
-                <div class="testimonial-block style-2  gray-bg">
-                    <div class="testimonial-thumb">
-                        <img src="images/user.png" alt="" class="img-fluid">
-                    </div>
-                    <div class="client-info">
-                        <h4>विशेषज्ञ डॉक्टर!</h4>
-                        <span>स्वप्निल</span>
-                        <p>
-                            वे महान सेवा सुविधा, और सहायता प्रदान करते हैं। पूरे अनुभव के दौरान अद्भुत था। मुझे हर तरह
-                            का नैतिक और मानसिक समर्थन मिला।
-                        </p>
-                    </div>
-                    <i class="icofont-quote-right"></i>
-                </div>
-                <div class="testimonial-block style-2  gray-bg">
-                    <div class="testimonial-thumb">
-                        <img src="images/user.png" alt="" class="img-fluid">
-                    </div>
-                    <div class="client-info">
-                        <h4>अच्छा समर्थन!</h4>
-                        <span>अश्विनी</span>
-                        <p>
-                            वे महान सेवा सुविधा, और सहायता प्रदान करते हैं। पूरे अनुभव के दौरान अद्भुत था। मुझे हर तरह
-                            का नैतिक और मानसिक समर्थन मिला।
-                        </p>
-                    </div>
-                    <i class="icofont-quote-right"></i>
-                </div>
-                <div class="testimonial-block style-2  gray-bg">
-                    <div class="testimonial-thumb">
-                        <img src="images/user.png" alt="" class="img-fluid">
-                    </div>
-                    <div class="client-info">
-                        <h4>अच्छा वातावरण!</h4>
-                        <span>धीरज</span>
-                        <p class="mt-4">
-                            वे महान सेवा सुविधा, और सहायता प्रदान करते हैं। पूरे अनुभव के दौरान अद्भुत था। मुझे हर तरह
-                            का नैतिक और मानसिक समर्थन मिला।
-                        </p>
-                    </div>
-                    <i class="icofont-quote-right"></i>
-                </div>
-                <div class="testimonial-block style-2  gray-bg">
-                    <div class="testimonial-thumb">
-                        <img src="images/user.png" alt="" class="img-fluid">
-                    </div>
-                    <div class="client-info">
-                        <h4>आधुनिक सेवा!</h4>
-                        <span>प्रियंका</span>
-                        <p>
-                            वे महान सेवा सुविधा, और सहायता प्रदान करते हैं। पूरे अनुभव के दौरान अद्भुत था। मुझे हर तरह
-                            का नैतिक और मानसिक समर्थन मिला।
-                        </p>
-                    </div>
-                    <i class="icofont-quote-right"></i>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<section class="section clients gray-bg">
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-lg-7">
-                <div class="section-title text-center">
-                    <h2>प्रमाणन</h2>
-                    <div class="divider mx-auto my-4"></div>
-                    <br><br>
-                    <img src="images/about/acc.png" alt="">
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+
+<!--<section class="section testimonial-2  ">-->
+<!--    <div class="container">-->
+<!--        <div class="row justify-content-center">-->
+<!--            <div class="col-lg-7">-->
+<!--                <div class="section-title text-center">-->
+<!--                    <h2>रोगी प्रशंसापत्र</h2>-->
+<!--                    <div class="divider mx-auto my-4"></div>-->
+<!--                    <p>उन्हीं के शब्दों में हमारे मरीज हमें अपना अनुभव बताते हैं</p>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </div>-->
+<!--    <div class="container my-0">-->
+<!--        <div class="row align-items-center">-->
+<!--            <div class="col-lg-12 testimonial-wrap-2">-->
+<!--                <div class="testimonial-block style-2 ">-->
+<!--                    <i class="icofont-quote-right"></i>-->
+<!--                    <div class="testimonial-thumb">-->
+<!--                        <img src="images/user.png" class="img-fluid icofont-user-male" alt="">-->
+<!--                    </div>-->
+<!--                    <div class="client-info ">-->
+<!--                        <h4>अद्भुत सेवा!</h4>-->
+<!--                        <span>अभिजीत</span>-->
+<!--                        <p>-->
+<!--                            वे महान सेवा सुविधा, और सहायता प्रदान करते हैं। पूरे अनुभव के दौरान अद्भुत था। मुझे हर तरह-->
+<!--                            का नैतिक और मानसिक समर्थन मिला।-->
+<!--                        </p>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--                <div class="testimonial-block style-2  gray-bg">-->
+<!--                    <div class="testimonial-thumb">-->
+<!--                        <img src="images/user.png" alt="" class="img-fluid">-->
+<!--                    </div>-->
+<!--                    <div class="client-info">-->
+<!--                        <h4>विशेषज्ञ डॉक्टर!</h4>-->
+<!--                        <span>स्वप्निल</span>-->
+<!--                        <p>-->
+<!--                            वे महान सेवा सुविधा, और सहायता प्रदान करते हैं। पूरे अनुभव के दौरान अद्भुत था। मुझे हर तरह-->
+<!--                            का नैतिक और मानसिक समर्थन मिला।-->
+<!--                        </p>-->
+<!--                    </div>-->
+<!--                    <i class="icofont-quote-right"></i>-->
+<!--                </div>-->
+<!--                <div class="testimonial-block style-2  gray-bg">-->
+<!--                    <div class="testimonial-thumb">-->
+<!--                        <img src="images/user.png" alt="" class="img-fluid">-->
+<!--                    </div>-->
+<!--                    <div class="client-info">-->
+<!--                        <h4>अच्छा समर्थन!</h4>-->
+<!--                        <span>अश्विनी</span>-->
+<!--                        <p>-->
+<!--                            वे महान सेवा सुविधा, और सहायता प्रदान करते हैं। पूरे अनुभव के दौरान अद्भुत था। मुझे हर तरह-->
+<!--                            का नैतिक और मानसिक समर्थन मिला।-->
+<!--                        </p>-->
+<!--                    </div>-->
+<!--                    <i class="icofont-quote-right"></i>-->
+<!--                </div>-->
+<!--                <div class="testimonial-block style-2  gray-bg">-->
+<!--                    <div class="testimonial-thumb">-->
+<!--                        <img src="images/user.png" alt="" class="img-fluid">-->
+<!--                    </div>-->
+<!--                    <div class="client-info">-->
+<!--                        <h4>अच्छा वातावरण!</h4>-->
+<!--                        <span>धीरज</span>-->
+<!--                        <p class="mt-4">-->
+<!--                            वे महान सेवा सुविधा, और सहायता प्रदान करते हैं। पूरे अनुभव के दौरान अद्भुत था। मुझे हर तरह-->
+<!--                            का नैतिक और मानसिक समर्थन मिला।-->
+<!--                        </p>-->
+<!--                    </div>-->
+<!--                    <i class="icofont-quote-right"></i>-->
+<!--                </div>-->
+<!--                <div class="testimonial-block style-2  gray-bg">-->
+<!--                    <div class="testimonial-thumb">-->
+<!--                        <img src="images/user.png" alt="" class="img-fluid">-->
+<!--                    </div>-->
+<!--                    <div class="client-info">-->
+<!--                        <h4>आधुनिक सेवा!</h4>-->
+<!--                        <span>प्रियंका</span>-->
+<!--                        <p>-->
+<!--                            वे महान सेवा सुविधा, और सहायता प्रदान करते हैं। पूरे अनुभव के दौरान अद्भुत था। मुझे हर तरह-->
+<!--                            का नैतिक और मानसिक समर्थन मिला।-->
+<!--                        </p>-->
+<!--                    </div>-->
+<!--                    <i class="icofont-quote-right"></i>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </div>-->
+<!--</section>-->
+<!--<section class="section clients gray-bg">-->
+<!--    <div class="container">-->
+<!--        <div class="row justify-content-center">-->
+<!--            <div class="col-lg-7">-->
+<!--                <div class="section-title text-center">-->
+<!--                    <h2>प्रमाणन</h2>-->
+<!--                    <div class="divider mx-auto my-4"></div>-->
+<!--                    <br><br>-->
+<!--                    <img src="images/about/acc.png" alt="">-->
+<!--                </div>-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </div>-->
+<!--</section>-->
 <?php include 'footer_hi.php'; ?>
+<script>
+    $(document).ready(function () {
+        $("#exampleModalCenter").modal('show');
+    });
+</script>
 </body>
 </html>
